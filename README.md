@@ -18,3 +18,7 @@ Testing make command in cloud shell
 Enabling git actions and testing for build success on commit
 
 ![Build success](https://user-images.githubusercontent.com/108083391/192134768-49d0f760-546c-41f5-ac2f-0bf841f7f2dd.jpg)
+
+Status badge
+
+[![Python application test with Github Actions](https://github.com/navaneethsantharam/pythonapp-with-gitactionintegration/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/navaneethsantharam/pythonapp-with-gitactionintegration/actions/workflows/pythonapp.yml)
